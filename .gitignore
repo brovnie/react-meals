@@ -1,2 +1,3 @@
 node_modules
-node_modules
+.identifier
+.DS_Store
